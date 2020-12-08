@@ -1,6 +1,6 @@
 # BTCC-TF-Model
 
-This repository was made to facilitate the creation of a TensorFlow model for the purpose of Between Two Castles Calculator (an app made to automatically calculate the score of a castle in the board game [Between Two Castles of Mad King Ludwig](https://stonemaiergames.com/games/between-two-castles/).) **[Link to the App on Google Play Store]**(https://play.google.com/store/apps/details?id=com.btcc.app) that utilizes the TensorFlow model that was trained using code in this repository.
+This repository was made to facilitate the creation of a TensorFlow model for the purpose of Between Two Castles Calculator (an app made to automatically calculate the score of a castle in the board game [Between Two Castles of Mad King Ludwig](https://stonemaiergames.com/games/between-two-castles/).) **[Link to the App on Google Play Store](https://play.google.com/store/apps/details?id=com.btcc.app)** that utilizes the TensorFlow model that was trained using code in this repository.
 
 **Most of the progress and coding for this project has been moved to a Google Colab Jupyter Notebook that is not part of this repository, so most likely this repository will not be updated until the final model is produced**. 
 
